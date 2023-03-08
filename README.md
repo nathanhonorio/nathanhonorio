@@ -26,6 +26,6 @@ Atualmente tenho estudado JS e React e estou em busca da minha primeira oportuni
 </div>
 
 ## Links
- <a href="www.linkedin.com/in/nathanhonoriodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/nathanhonoriodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
