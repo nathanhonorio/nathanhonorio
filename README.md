@@ -1,6 +1,5 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil!
-Meu nome é Nathan, moro no Rio de Janeiro,RJ e tenho 20 anos.
-Atualmente tenho estudado JS e React e estou em busca da minha primeira oportunidade para ingressar profissionalmente nesse território louco e divertido do Universo Front-End.  
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
