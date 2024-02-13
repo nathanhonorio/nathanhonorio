@@ -19,8 +19,6 @@
     <li>Sou apaixonado por aprender coisas novas 📚</li>
     <li>Gosto de estudar Astronomia (superficialmente🤫) 🔭</li>
     <li>Toco guitarra quando da tempo 🎸</li>
-    <li>Amo gatos, se deixar eu passo o dia vendo vídeos desses seres superiores 🐱</li>
-    
   </ul>
 </div>
 
